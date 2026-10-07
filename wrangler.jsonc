@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "scoutstore",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "ScoutStore-db",
+			"database_id": "e6cb091c-58f9-4a7d-90f7-49ef89ad0a68"
+		}
+	]
+}
